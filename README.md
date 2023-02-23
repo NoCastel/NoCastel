@@ -1,8 +1,9 @@
 ### Hi there 👋
-I'm interested in java and javascript.\
-I’m currently learning spring boot.\
+I'm interested in: java, javascript and sql languages.\
+I’m currently learning: spring boot.\
+I know: javascript, reactjs, java, sql, html, css, scss and tailwind css.\
 My hobby: https://www.codewars.com/users/NoCastel \
-How to reach me castelendy@gmail.com 
+How to reach me: castelendy@gmail.com 
 <!--
 **NoCastel/NoCastel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
