@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+I'm interested in java and javascript.
+I’m currently learning spring boot.
+My hobby: https://www.codewars.com/users/NoCastel
+How to reach me castelendy@gmail.com
 <!--
 **NoCastel/NoCastel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
