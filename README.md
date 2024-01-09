@@ -1,6 +1,5 @@
 ### Hi there 👋
 I'm interested in: java, javascript and sql languages.\
-I’m currently learning: spring boot.\
 I know: javascript, reactjs, java, sql, html, css and tailwind css.\
 My hobby: https://www.codewars.com/users/NoCastel \
 How to reach me: castelendy@gmail.com 
