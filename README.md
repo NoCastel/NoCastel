@@ -1,9 +1,9 @@
 ### Hi there 👋
 I'm interested in: java, javascript and sql languages.\
 I know: javascript, reactjs, java, sql, html, css and tailwind css.\
-My hobby: https://www.codewars.com/users/NoCastel \
+<!--My hobby: https://www.codewars.com/users/NoCastel \
 How to reach me: castelendy@gmail.com 
-<!--
+
 **NoCastel/NoCastel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
